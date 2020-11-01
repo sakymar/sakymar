@@ -9,4 +9,4 @@
 
 ## 📫 How to reach me?
 
-#### If you would like to discuss these things, you can join me on [twitter](https://twitter.com/AntoineMesnil) or [Linkedin](https://linkedin.com/antoinemesnil). You can also ask me anything (within reason).
+#### If you would like to discuss these things, you can join me on [twitter](https://twitter.com/AntoineMesnil) or [Linkedin](https://linkedin.com/in/antoine-mesnil). You can also ask me anything (within reason).
