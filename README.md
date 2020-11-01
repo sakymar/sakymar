@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me?
+
+If you would like to discuss these things, you can join me on Twitter or LinkedIn. You can also ask me anything (within reason).
