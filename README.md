@@ -1,5 +1,8 @@
 ### Hi, I'm Antoine 👋
 
+
+I'm a web and mobile developer, currently working at Dernier cri. I'm interested in machine learning, design ui / ux, travels and so much more
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakymar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
