@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Indie maker - Developer and Designer
 ------------------------------------
 
-I am an experienced developer that quit his lead dev job to create my own solo startup studio and apps I love
+I am an experienced developer that quit my lead dev job to create my own solo startup studio and apps I love
 
 * 🌍  I'm based in Bordeaux
 * 🖥️  See my portfolio at [antoinemesnil.com](http://antoinemesnil.com)
